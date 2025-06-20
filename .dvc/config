@@ -1,0 +1,4 @@
+[core]
+    remote = c:\windows\temp
+['remote "c:\windows\temp"']
+    url = ../s3_local
